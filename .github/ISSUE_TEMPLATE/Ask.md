@@ -11,22 +11,39 @@ assignees: ''
 
 Describe the problem you are trying to solve.
 
-### Desired Outcome
-
-Describe what outcome will be enabled if successful? What about the existing process will change as a result of your success? How will it change?
-
 ### Current State
 
 Describe the current state and it's shortcomings. Why does this need to change?
 
-## Success Criteria
+### Future State (i.e. Desired Outcome)
 
-Describe what requirements need to be met in order to consider the project a success. 
+Describe what outcome will be enabled if successful? What about the existing process will change as a result of your success? How will it change?
 
 ### Impact
 
 - To the extent possible, estimate the impact of project if successful.
 - How much of an improvement do you need for this to be valuable?
+
+## Problem Breakdown
+
+### Objectives
+
+ - What are the primary goals/objectives of your organization?
+ - Are there any constraints/tradeoffs that exist between objectives?
+
+### Actions
+
+What are the tangible actions/decisions that can be advised to acheive the stated objectives?
+
+### Data
+
+- What data is available to address this problem?
+- link to datasets and/or descriptions either from repo or existing data catalog
+- link to data acquisition issues
+
+### Analysis
+
+What analysis must be done in order to advise/optimize the actions stated above?
 
 ### Metrics
 
@@ -36,31 +53,20 @@ Describe what requirements need to be met in order to consider the project a suc
 - This should also include metrics that we wish to balance against our primary metric.
 
 
-### Constraints
+## Documentation
 
-- Describe any constraints that the solution must consider.
-
-## Solution Architecture
+### Solution Architecture
 
 [Solution Architecture Description](docs/solution-architecture.md)
 
-## Data Requirements
-
-### Datasets
-
-- link to datasets and/or descriptions either from repo or existing data catalog
-- link to data acquisition issues
-
-## Understanding and Exploration
+### Understanding and Exploration
 
 - links to explore issues
 - links to docs/notebooks/knowledge base that inform your solution based on the work done in the project
 
-## Approaches and Experiments
+### Approaches and Experiments
 
 - links to experiment issues
-
-## See Also
 
 ### Background Info
 
