@@ -1,0 +1,12 @@
+{
+  "R": {
+    "Version": "3.6.1",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://cran.rstudio.com"
+      }
+    ]
+  },
+  "Packages": {}
+}
