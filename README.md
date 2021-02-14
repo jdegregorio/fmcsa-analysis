@@ -1,6 +1,17 @@
-# Data Science Lifecycle Process
+# Federal Motor Carrier Safety Administration (FMCSA) Analysis
 
-Use this repo leverages the Data Science Life Cycle Process.  See full documentation about this process [HERE](https://github.com/dslp/dslp-repo-template).
+## Overview
+
+The primary analytics objective of this project is to develop useful sales leads from the public FMCSA motor carrier data.
+
+This project also serves as a pilot demonstration of using the following tools/processes for managing the data science workflow:
+ - Data Science Lifecycle Process
+ - Git Projects (i.e. KanBan Board)
+ - Git Workflows - Automatic Containerization & Deployment
+
+## Data Science Lifecycle Process (DSLP)
+
+Use this repo leverages the Data Science Life Cycle Process. This is a framework for managing the data science lifecycle within a git code repository. See full documentation about this process [HERE](https://github.com/dslp/dslp-repo-template).
 
 ## Project Directory Structure
 
